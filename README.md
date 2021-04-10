@@ -62,6 +62,8 @@ Your visualization should look something like the map above.
 
 
 Level 2: More Data (Optional)
+![image](https://user-images.githubusercontent.com/75033256/114283350-89f5ca00-9a06-11eb-8dc2-c8f07133e542.png)
+
 
 The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it along side your original set of data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates.
 In this step we are going to..
